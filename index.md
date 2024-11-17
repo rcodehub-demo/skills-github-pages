@@ -1,4 +1,5 @@
+# This is Blog Page
+## This is second line of blog page.
 ---
-title: Welcome to my blog
+title: Welcome to blog
 ---
-
